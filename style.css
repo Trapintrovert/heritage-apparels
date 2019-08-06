@@ -133,13 +133,12 @@ navbar-brand {
 .header-content h2{
   font-style: normal;
   font-weight: bold;
-  font-size: 72px;
+  font-size: 55px;
   line-height: 108px;
 }
 .header-content p{
   font-weight: 500;
   font-size: 28px;
-  line-height: 60px;
 }
 .header-content .btn-black{
   background: #16161D;
