@@ -94,7 +94,7 @@ body{
   -moz-osx-font-smoothing: grayscale;
 }
  p{
-font-size: 16px;
+font-size: 14px;
 }
 
 
@@ -144,9 +144,8 @@ navbar-brand {
 .header-content .btn-black{
   background: #16161D;
   color: #fff;
-  border-radius: 5px;
   width: 228px;
-  height: 68px;
+  height: 56px;
   font-size: 24px;
   line-height: 40px;
 
@@ -167,13 +166,13 @@ navbar-brand {
   font-size: 19px;
   font-style: normal;
   font-weight: bold;
-  line-height: 36px;
+  line-height: 28px;
   text-transform: uppercase;
 }
 #about h3, #products h3{
   font-style: normal;
   font-weight: 500;
-  font-size: 34px;
+  font-size: 28px;
   line-height: 54px
 }
 
